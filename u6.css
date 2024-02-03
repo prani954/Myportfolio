@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap");
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #eaf5f5;
+  font-family: "Lora", serif;
+  font-size: large;
+}
+#para {
+  font-size: 40px;
+  color: #0c8686;
+  float: left;
+  left: 20px;
+}
+#para-container {
+  margin-top: -80px;
+  margin-bottom: -10px;
+}
+h1 {
+  color: #12c6c6;
+  height: 20px;
+  width: 200px;
+  padding: 40px;
+  margin: 0 auto 0 auto;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  line-height: 2;
+}
+h2 {
+  color: #12c6c6;
+  font-weight: normal;
+  height: 20px;
+  width: 200px;
+  padding: 20px;
+  margin: 0 auto 0 auto;
+}
+.profile img {
+  margin-top: 15px;
+  margin-bottom: 0px;
+  position: absolute;
+  margin-left: 35%;
+}
+#hea,
+#para {
+  font-family: "Satisfy", cursive;
+}
+.middle-container img {
+  position: relative;
+  border-radius: 25%;
+  width: 30%;
+  height: 30%;
+}
+
+.profile img {
+  right: 200px;
+}
+.middle-container {
+  top: 30px;
+  width: auto;
+  height: auto;
+  margin: 100px 0;
+  right: 75px;
+}
+.bottom-container {
+  width: auto;
+  height: auto;
+  margin-top: 5px;
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+.skill-row {
+  width: 50%;
+  margin: 30px auto 30px auto;
+  text-align: left;
+}
+.image {
+  border-radius: 50%;
+}
+.skills {
+  width: 75%;
+  float: left;
+}
+hr {
+  border: dotted #7a8585 6px;
+  border-bottom: none;
+  width: 5%;
+}
+
+.profile img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 1px solid #18b4b4;
+}
+.s {
+  width: 75%;
+}
+.code-skill-desc {
+  clear: left;
+}
+.pro {
+  text-decoration-line: underline;
+}
+.intro {
+  margin: auto;
+  width: 30%;
+}
+.h {
+  margin-left: 270px;
+  margin-top: 50px;
+  padding: 0px;
+}
+.b {
+  background-color: #18b4b4;
+  color: white;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 5px;
+  border-color: #18b4b4;
+}
+a {
+  font-size: 75px;
+}
+a:hover {
+  color: #e4f9f9;
+}
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.9rem;
+  padding: 5px 0px;
+}
+a {
+  color: #11999e;
+  font-size: medium;
+  padding: 0.5;
+  text-decoration: none;
+  margin: 3px;
+}
